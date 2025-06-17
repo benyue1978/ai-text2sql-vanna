@@ -1,0 +1,5 @@
+vanna
+chromadb
+openai
+flask 
+dotenv

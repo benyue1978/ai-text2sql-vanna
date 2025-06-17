@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 环境
+.env
+.venv/
+venv/
+ENV/
+
+# 数据库
+*.sqlite
+*.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# vanna临时目录
+vanna_tmp/

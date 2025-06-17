@@ -1,10 +1,18 @@
 # Vanna Text2SQL 示例项目
 
-本项目演示如何用Vanna实现text2sql，并连接本地SQLite数据库。
+本项目演示如何用Vanna实现text2sql，并连接本地SQLite数据库，使用OpenAI gpt-3.5-turbo模型。
+
+## 准备环境
+
+```bash
+python -m venv venv
+source venv/bin/activate
+```
 
 ## 安装依赖
 
 ```bash
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
